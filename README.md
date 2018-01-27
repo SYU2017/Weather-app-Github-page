@@ -21,4 +21,4 @@
      5. Navigate to _username_.github.io/_repositoryname_ and you will find that your new web page has gone live!
 
 
-![picture](web.png)
+

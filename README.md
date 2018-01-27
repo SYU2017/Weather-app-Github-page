@@ -1,10 +1,12 @@
-# Week12-Weather-app-Github-page
+# Week12-Weather-app-Github-page---https://syu2017.github.io/Week12-Weather-app-Github-page/
 
 1.  Deploy the week12 weather dashboard website to github pages, with the website working on a live, publicly accessible URL as a result.
 
         GitHub Pages is designed to host your personal, organization, or project pages from a GitHub repository.
 
          Your site is published at https://syu2017.github.io/Week12-Weather-app-Github-page/
+         
+       ![picture](web.png)  
 
 2.  Deploy Guide
 
@@ -19,3 +21,4 @@
      5. Navigate to _username_.github.io/_repositoryname_ and you will find that your new web page has gone live!
 
 
+![picture](web.png)

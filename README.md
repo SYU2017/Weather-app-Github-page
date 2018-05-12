@@ -1,4 +1,4 @@
-# Week12-Weather-app-Github-page---https://syu2017.github.io/Week12-Weather-app-Github-page/
+# Week12-Weather-app-Github-page---https://syu2017.github.io/Weather-app-Github-page/
 
 1.  Deploy the week12 weather dashboard website to github pages, with the website working on a live, publicly accessible URL as a result.
 
